@@ -18,8 +18,12 @@
           <option name="url" value="https://github.com/ajew/SocietySystem" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ajew/SocietySystem.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\MANOEL PERGENTINO\Documents\Ciência da Computação\Engenharia de Software\SocietySystem" />
+    <option name="cloneParentDir" value="C:\Users\MANOEL PERGENTINO\Documents\Ciência da Computação\Engenharia de Software\SocietySystem\Society" />
   </component>
 </application>
